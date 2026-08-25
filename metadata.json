@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia & Noir - Luxury Fashion Brand & App Experience",
+  "description": "High-end luxury fashion brand digital experience and mobile app interface, featuring haute couture collections, interactive lookbooks, bespoke tailoring concierge, and freelance client demo showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
